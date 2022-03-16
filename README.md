@@ -1,2 +1,3 @@
 # Hello-World
 My Second Repo
+I am so excited to begin my journey of learning. I am a middle aged man in Dallas, Texas and pursuing my degree in CyberSecurity and am passionate about learning to do Ethical Hacking and Pentesting etc...
